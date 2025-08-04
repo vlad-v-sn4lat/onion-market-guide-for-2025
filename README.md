@@ -128,3 +128,5 @@ Use official onion URLs, and always verify those.
 
 Darknet markets are powerful tools. By following the guidance outlined, using escrow, and staying informed, you can navigate these platforms safely. Always verify URLs and use encryption.
 Plase contribute and add stars to this repo.
+
+Update:  04 August
