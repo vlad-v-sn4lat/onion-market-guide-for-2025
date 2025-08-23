@@ -131,4 +131,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update:  13.08.2025
+
+
+Update:  23 August 2025 link is back up and accessible
